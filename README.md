@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robbe Vangheluwe</h1>
 <h3 align="center">Currently working in Sales</h3>
 
-- 🌱 I’m learning **Data Analytics: MySQL, Python, GitHub, PowerBI**
+- 🌱 I’m learning **Data Analytics: MySQL, Python, GitHub, Jupyterlab, PowerBI**
 
 - 📫 How to reach me **robbe.vangheluwe@gmail.com**
 
